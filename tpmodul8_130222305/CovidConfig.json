@@ -1,4 +1,6 @@
-{"SatuanSuhu":"celsius","BatasHarianDemam":0,"PesanDitolak":null,"PesanDiterima":null}ak diperbolehkan masuk ke dalam gedung ini",
+{
+  "satuan_suhu": "celsius",
+  "batas_harian_demam": 14,
+  "pesan_ditolak": "Anda tidak diperbolehkan masuk ke dalam gedung ini",
   "pesan_diterima": "Anda dipersilakan untuk masuk ke dalam gedung ini"
 }
-

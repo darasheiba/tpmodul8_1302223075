@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{FC794CC6-79F3-4C67-893B-46FE12C44D18}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="tpmodul8_130222305/CovidConfig.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tpmodul8_130222305/Program.cs">
     <Files>
-      <File FileName="tpmodul8_130222305/Program.cs" Line="21" Column="10" />
-      <File FileName="tpmodul8_130222305/CovidConfig.json" Line="1" Column="1" />
-      <File FileName="tpmodul8_130222305/CovidConfig.cs" Line="13" Column="30" />
+      <File FileName="tpmodul8_130222305/Program.cs" Line="49" Column="2" />
+      <File FileName="tpmodul8_130222305/CovidConfig.json" Line="3" Column="9" />
+      <File FileName="tpmodul8_130222305/CovidConfig.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="tpmodul8_130222305" expanded="True">
-            <Node name="tpmodul8_130222305" expanded="True">
-              <Node name="CovidConfig.cs" selected="True" />
+          <Node name="tpmodul8_130222305">
+            <Node name="tpmodul8_130222305">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
